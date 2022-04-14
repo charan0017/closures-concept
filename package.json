@@ -1,0 +1,12 @@
+{
+  "name": "closure-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sai Charan",
+  "license": "ISC"
+}
